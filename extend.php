@@ -11,15 +11,15 @@
  * file that was distributed with this source code.
  */
 
-namespace JSLirola\Login2SeePlus;
+namespace lakshikagayal\login2see;
 
 use Flarum\Api\Serializer\BasicPostSerializer;
 use Flarum\Api\Serializer\ForumSerializer;
 use Flarum\Api\Serializer\PostSerializer;
 use Flarum\Extend;
 use Illuminate\Contracts\Events\Dispatcher;
-use JSLirola\Login2SeePlus\HideContentInPosts;
-use JSLirola\Login2SeePlus\HideContentInPostPreviews;
+use lakshikagayal\login2see\HideContentInPosts;
+use lakshikagayal\login2see\HideContentInPostPreviews;
 
 return [
     (new Extend\Frontend('forum'))
