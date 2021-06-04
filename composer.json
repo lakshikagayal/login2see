@@ -1,5 +1,5 @@
 {
-    "name": "jslirola/flarum-ext-login2seeplus",
+    "name": "lakshikagayal\login2see",
     "description": "Make posts hidden for visitors.",
     "type": "flarum-extension",
     "keywords": ["discussion"],
@@ -11,7 +11,7 @@
     ],
     "support": {
         "issues": "https://github.com/jslirola/flarum-ext-login2seeplus/issues",
-        "source": "https://github.com/jslirola/flarum-ext-login2seeplus",
+        "source": "https://github.com/lakshikagayal/login2see/",
         "forum": "https://discuss.flarum.org/d/24193-login-2-see-plus"
     },
     "require": {
@@ -30,7 +30,7 @@
     },
     "autoload": {
         "psr-4": {
-            "JSLirola\\Login2SeePlus\\": "src/"
+            "lakshikagayal\\login2see\\": "src/"
         }
     }
 }
