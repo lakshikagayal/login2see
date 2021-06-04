@@ -1,5 +1,5 @@
 {
-    "name": "lakshikagayal\login2see",
+    "name": "lakshikagayal/login2see",
     "description": "Make posts hidden for visitors.",
     "type": "flarum-extension",
     "keywords": ["discussion"],
